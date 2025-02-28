@@ -1,0 +1,16 @@
+Package: EstimateClonality
+Title: Temporal and clonal dissection of mutations
+Version: 1.1.1
+Author: Nicholas McGranahan
+Description: Uses read count and copy number information to temporally and clonally dissect SNVs.
+Maintainer: Nicholas McGranahan <nicholas.mcgranahan@cancer.org.uk>
+License: GPL-3
+Depends:
+  R (>= 4.0),
+  gdata, 
+  limma, 
+  sequenza, 
+  boot, 
+  bootstrap
+Packaged: 2022-5-7; Qingjian Chen
+RoxygenNote: 7.1.2
