@@ -1,9 +1,9 @@
-Package: EstimateClonality
+Package: TimingLOH
 Title: Temporal and clonal dissection of mutations
 Version: 1.1.1
-Author: Nicholas McGranahan
+Author: Qingjian Chen
 Description: Uses read count and copy number information to temporally and clonally dissect SNVs.
-Maintainer: Nicholas McGranahan <nicholas.mcgranahan@cancer.org.uk>
+Maintainer: Qingjian Chen <chenqingjian2010@163.com>
 License: GPL-3
 Depends:
   R (>= 4.0),
